@@ -1,9 +1,0 @@
-{
-    "name": "Triplice.EventBus",
-    "rootNamespace": "EventBusSystem",
-    "references": [],
-    "includePlatforms": [],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "autoReferenced": true
-}
