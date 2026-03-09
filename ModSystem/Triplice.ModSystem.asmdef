@@ -1,0 +1,11 @@
+{
+    "name": "Triplice.ModSystem",
+    "rootNamespace": "ModSystem",
+    "references": [
+        "Triplice.EventBus",
+        "Triplice.SaveSystem",
+        "Triplice.Shared",
+        "MessagePack"
+    ],
+    "autoReferenced": true
+}

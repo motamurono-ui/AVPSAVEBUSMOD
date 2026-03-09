@@ -1,0 +1,10 @@
+{
+    "name": "Triplice.SaveSystem",
+    "rootNamespace": "EventBusSystem.SaveSystem",
+    "references": [
+        "Triplice.EventBus",
+        "Triplice.Shared",
+        "MessagePack"
+    ],
+    "autoReferenced": true
+}
