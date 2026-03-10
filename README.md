@@ -105,8 +105,6 @@ public class ExampleScript : MonoBehaviour
 }
 ```
 
-<img width="802" height="760" alt="image-9" src="https://github.com/user-attachments/assets/3b80f7b2-a3f1-4209-b867-ce0aa9e7ffcb" />
-
 
 ### Raise events from anywhere
 
